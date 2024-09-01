@@ -27,10 +27,5 @@ Make sure you have the following installed:
 - Node.js
 - MongoDB
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/CancerAI.git
  
